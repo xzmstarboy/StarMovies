@@ -2,7 +2,6 @@ body {
     color: #89adcf;
     background: #ecf6ff;
     margin: 0px;
-
 }
 
 header {
@@ -10,4 +9,10 @@ header {
     padding: 20px;
     font-size: 33px;
     color: rgb(81, 144, 204)
+}
+
+section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
