@@ -4,9 +4,6 @@ body {
 }
 
 header {
-    border: solid 2px #6a8cac
-
-
-
-
+    border-bottom: solid 2px #6a8cac (42, 122, 228);
 }
+
