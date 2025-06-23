@@ -2,6 +2,8 @@ body {
     color: #89adcf;
     background: #ecf6ff;
     margin: 0px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
 }
 
 header {
