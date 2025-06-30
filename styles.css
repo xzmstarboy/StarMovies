@@ -11,6 +11,8 @@ header {
     color: rgb(81, 144, 204)
 }
 
+/* código omitido */
+
 section {
     background: rgb(236, 246, 255);
     padding-bottom: 80px;
@@ -19,6 +21,6 @@ section {
     justify-content: center;
 }
 
-div {
+.chamada-texto {
     margin-right: 20px;
 }
