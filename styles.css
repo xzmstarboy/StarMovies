@@ -2,7 +2,8 @@ body {
     color: #89adcf;
     background: #d4ebff;
     margin: 0px;
-      font-family: "Family-Cookie"
+    font-family: "Family-Cookie"
+    margin-bottom: 100px
 }
 
 header {
@@ -50,13 +51,19 @@ img {
 .categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
 }
 
 .categoria-videos img:hoover {
     opacity: 1,0
-    border: 1px solid green
+    border: 1px solid blue
 }
 
 .categoria h2 {
-    color: black
+    color: rgb(42, 122, 228);
 }
