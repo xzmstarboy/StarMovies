@@ -3,7 +3,6 @@ body {
     background: #d4ebff;
     margin: 0px;
     font-family: "Family-Cookie"
-    margin-bottom: 100px
 }
 
 header {
@@ -21,25 +20,20 @@ header {
     justify-content: center;
 }
 
-section{
-    padding-left: 20px;
-        padding-right: 20px;
-}
-
 .chamada-texto {
     margin-right: 5%;
 }
 
 h1 {
-  font-size: 30px;
+    font-size: 30px;
 }
 
 p {
-  font-size: 15px;
+    font-size: 15px;
 }
 
 img {
-  height: 200px;
+    height: 200px;
 }
 
 .categoria-videos {
@@ -49,6 +43,6 @@ img {
 }
 
 .categoria {
-    padding-left: 20px
-    padding-right: 20px
+    padding-left: 20px;
+    padding-right: 20px;
 }
