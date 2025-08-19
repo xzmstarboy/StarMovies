@@ -46,7 +46,7 @@ p {
 }
 
 .categoria-videos img {
-    opacity: 0,5;
+    opacity: 1,0;
     height: 200px;
 }
 
@@ -56,5 +56,5 @@ p {
 }
 
 .categoria h2 {
-    color: rgb(56, 131, 228);
+    color: rgb(33, 117, 228);
 }
