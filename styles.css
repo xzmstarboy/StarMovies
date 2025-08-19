@@ -32,10 +32,6 @@ p {
     font-size: 15px;
 }
 
-img {
-    height: 200px;
-}
-
 .categoria-videos {
     display: flex;
     overflow-x: auto;
@@ -49,4 +45,9 @@ img {
 
 .categoria-videos img {
     opacity: 0,5;
+    height: 200px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1,0;
 }
