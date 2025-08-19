@@ -50,11 +50,3 @@ p {
     height: 200px;
 }
 
-.categoria-videos img:hover {
-    opacity: 1,0;
-    border: 2px solid rgb(121, 162, 252)
-}
-
-.categoria h2 {
-    color: solid 2px rgb(81, 144, 204)
-}
